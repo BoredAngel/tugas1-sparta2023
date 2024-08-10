@@ -105,7 +105,7 @@ export default function Home() {
         <ul>
           <li className="text-lg mb-4"><a href="https://www.linkedin.com/in/muhammad-jibril-ibrahim-68758529a" target="_blank"> <Image className="inline" src="/Linkedin-logo.png" alt="logo linkedin" width={15} height={15}/> linkedin </a></li>
           <li className="text-lg mb-4"> <Image className="inline" src="/Whatsapp-logo.png" alt="logo WA" width={15} height={15}/> +6285795595897</li>
-          <li className="text-lg mb-4"><a href="https://www.instagram.com/m_ji45/" target="_blank"> <Image className="inline" src="/Instagram-logo.png" alt="logo IG" width={15} height={15}/> m_ji45 </a></li>
+          <li className="text-lg mb-4"><a href="https://www.instagram.com/m_ji45/" target="_blank"> <Image className="inline" src="/Instagram-Logo.png" alt="logo IG" width={15} height={15}/> m_ji45 </a></li>
           <li className="text-lg mb-4"><a href="https://github.com/BoredAngel" target="_blank"> <Image className="inline" src="/GitHub_logo.png" alt="logo Line" width={15} height={15}/> BoredAngel </a></li>
         </ul>
         
